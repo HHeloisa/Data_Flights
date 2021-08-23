@@ -16,11 +16,6 @@
 ```bash 
   npm install
 ```
-- Para rodar os testes, utilize o comando a seguir substituindo N pelo número correspondente.
-```sh
-./scripts/evaluate.sh desafioN
-```
----
 
 # Requisitos do projeto
 
